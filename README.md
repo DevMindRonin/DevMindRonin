@@ -1,28 +1,24 @@
-👋 Hi, I’m @DevMindRonin
+## 👋 Hi, I’m @DevMindRonin
 
-A full-stack developer passionate about crafting efficient, no-nonsense solutions.
+- A full-stack developer passionate about crafting efficient, no-nonsense solutions.
 
-👀 Interests
+**👀 Interests**
 
-React, Node.js, JavaScript/TypeScript
+- React, Node.js, JavaScript/TypeScript
+- Auth & Security (currently deep-diving into JWT + NextAuth.js)
+- GraphQL, PostgreSQL, and clean architecture
 
-Auth & Security (currently deep-diving into JWT + NextAuth.js)
+**🌱 Current Project**
 
-GraphQL, PostgreSQL, and clean architecture
+- Building a CRUD app with GraphQL + PostgreSQL, focusing on robust auth (JWT + NextAuth.js). Fun, right? 🚀
 
-🌱 Current Project
+**🧠 My Dev Mindset**
 
-Building a CRUD app with GraphQL + PostgreSQL, focusing on robust auth (JWT + NextAuth.js). Fun, right? 🚀
+- Systematic thinker – I love dissecting problems and optimizing solutions.
+- Tech enthusiast since childhood – Always exploring, always building.
+- "Less is more" – Fancy tech is cool, but simple, maintainable code wins.
 
-🧠 My Dev Mindset
-
-Systematic thinker – I love dissecting problems and optimizing solutions.
-
-Tech enthusiast since childhood – Always exploring, always building.
-
-"Less is more" – Fancy tech is cool, but simple, maintainable code wins.
-
-📫 Reach me: DevMindRonin@gmail.com
+**📫 Reach me: DevMindRonin@gmail.com**
 
 <!---
 DevMindRonin/DevMindRonin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
